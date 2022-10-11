@@ -32,7 +32,8 @@
 *,
 *::before,
 *::after {
-  box-sizing: border-box; }
+  box-sizing: border-box; 
+  overflow-x: hidden;}
 
 html {
   font-family: sans-serif;
@@ -40,8 +41,7 @@ html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -ms-overflow-style: scrollbar;
-  -webkit-tap-highlight-color: transparent; 
-  overflow-x:hidden;}
+  -webkit-tap-highlight-color: transparent;}
 
 @-ms-viewport {
   width: device-width; }
@@ -52,7 +52,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 body {
   margin: 0;
   background-color: #000000;
-  overflow-x:hidden;
+/*   overflow-x:hidden; */
   /* background-image: url(https://i.pinimg.com/originals/79/a3/84/79a384c3c449ad01b0e57e790807b2c0.gif); */
   /* background-position: center;
   background-repeat: no-repeat;
