@@ -1,5 +1,5 @@
 ---
-title: ONNX Runtime
+title: Главная
 description: ONNX Runtime is a cross-platform machine-learning model accelerator
 has_children: false
 nav_order: 0
@@ -16,8 +16,8 @@ redirect_from: /how-to
 * [🚀 Программа](/program)
 * [🧠 Слушатели](/students)
 * [📧 Чат](https://t.me/+vEZLTQ9wWT44OTRi)
-* [📧 Канал](https://t.me/+vEZLTQ9wWT44OTRi)
-* [👨‍💻 Github](https://github.com/Arseny5/Arseny5.github.io)
+* [📧 Канал](https://t.me/+JuVvTYm2i9pjYjg6)
+* [👨‍💻 Github](https://github.com/MISISAILab/MISISAILab.github.io)
 
 
 | Иванов Арсений | Калязин Николай | Братчиков Сергей | Даниил Волков |
