@@ -1,7 +1,9 @@
 ---
 title: ONNX Runtime
-permalink: /
-nav_order: 1
+description: ONNX Runtime is a cross-platform machine-learning model accelerator
+has_children: false
+nav_order: 0
+redirect_from: /how-to
 ---
 
 # Введение в машинное обучение
