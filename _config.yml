@@ -1,4 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+# remote_theme: pmarsceill/just-the-docs
 color_scheme: onnxruntime
 search_enabled: true
 # Split pages into sections that can be searched individually
@@ -13,10 +13,10 @@ kramdown:
 #   toc_levels: "2"
 logo: "/images/ONNX-Runtime-logo.svg"
 aux_links:  
-  "ONNX Runtime":
+  "Главная":
     - "/"
   "GitHub":
-    - "https://github.com/microsoft/onnxruntime"
+    - "https://github.com/MISISAILab/MISISAILab.github.io"
 # ga_tracking: UA-156955408-1    
 # # Footer "Edit this page on GitHub" link text
 # gh_edit_link: true # show or hide edit this page link
