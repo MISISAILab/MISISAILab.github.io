@@ -13,7 +13,7 @@ kramdown:
   toc_levels: "2"
 logo: "/images/ONNX-Runtime-logo.svg"
 aux_links:  
-  "Главная":
+  "ONNX Runtime":
     - "/"
   "Install":
     - "/docs/install/"
