@@ -1,5 +1,5 @@
 ---
-title: Главная
+title: ONNX Runtime
 permalink: /
 nav_order: 1
 ---
