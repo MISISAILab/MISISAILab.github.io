@@ -4,7 +4,7 @@ nav_order: 3
 ---
 
 
-## Занятие 1. [📄 Материалы](/presentations/1.pdf). [📝 Записи](/notes/1.pdf). [📼 Видео](https://drive.google.com/file/d/1TedRS-j3D77muIKsr8fZOBa3PRJYFwx4/view?usp=sharing)
+## Занятие 1. [📄 Материалы](). [📝 Записи](). [📼 Видео](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=sharing)
 
 | Что такое машинное обучение? Основные термины, папиры и источники.    | Практика: задача наименьших квадратов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_1.ipynb){: .btn}      |
 | Соревнования по машинному обучению.   | Практика: работа с библиотекой CVXPY [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_2.ipynb){: .btn}      |
