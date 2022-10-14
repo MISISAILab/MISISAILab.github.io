@@ -11,7 +11,7 @@ plugins:
 kramdown:
   parse_block_html: true
   toc_levels: "2"
-logo: "/images/ONNX-Runtime-logo.svg"
+logo: "/images/Group15.svg"
 aux_links:  
   "Главная":
     - "/"
