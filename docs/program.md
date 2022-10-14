@@ -1,14 +1,14 @@
 ---
-title: 🚀 Программа
+title: Программа
 nav_order: 3
 ---
 
 
 ## Занятие 1. [📄 Материалы](/presentations/1.pdf). [📝 Записи](/notes/1.pdf). [📼 Видео](https://drive.google.com/file/d/1TedRS-j3D77muIKsr8fZOBa3PRJYFwx4/view?usp=sharing)
 
-| Обзор приложений задач оптимизации, реальных постановок задач оптимизации и результатов.    | Практика: задача наименьших квадратов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_1.ipynb){: .btn}      |
-| Знакомство с современными практическими инструментами для оптимизации и анализа данных   | Практика: работа с библиотекой CVXPY [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_2.ipynb){: .btn}      |
-| Сравнение библиотек и фреймворков для машинного обучения.         | Практика: сравнение SciPy и CVXPY в задаче условной оптимизации. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_3.ipynb){: .btn}         |
+| Что такое машинное обучение? Основные термины, папиры и источники.    | Практика: задача наименьших квадратов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_1.ipynb){: .btn}      |
+| Соревнования по машинному обучению.   | Практика: работа с библиотекой CVXPY [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_2.ipynb){: .btn}      |
+| Домашнее задание.         | Практика: сравнение SciPy и CVXPY в задаче условной оптимизации. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_3.ipynb){: .btn}         |
 
 <!-- ## Занятие 2. [📄 Материалы](/presentations/2.pdf). [📝 Записи](/notes/2.pdf). [📼 Видео](https://drive.google.com/file/d/1zwGlJCu0mHGT8R1JaDE6BA6SBWoBEY5m/view?usp=sharing)
 
