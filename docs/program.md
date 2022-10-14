@@ -3,7 +3,6 @@ title: 🚀 Программа
 nav_order: 3
 ---
 
-Вводное занятие. [📄 Материалы](/presentations/intro_info.pdf). [📝 Записи](/notes/intro_info.pdf). [📼 Видео](https://drive.google.com/file/d/1NlwEeO51tHHZbq5vaiwII2zhyLiAXNJn/view?usp=sharing)
 
 ## Занятие 1. [📄 Материалы](/presentations/1.pdf). [📝 Записи](/notes/1.pdf). [📼 Видео](https://drive.google.com/file/d/1TedRS-j3D77muIKsr8fZOBa3PRJYFwx4/view?usp=sharing)
 
@@ -11,7 +10,7 @@ nav_order: 3
 | Знакомство с современными практическими инструментами для оптимизации и анализа данных   | Практика: работа с библиотекой CVXPY [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_2.ipynb){: .btn}      |
 | Сравнение библиотек и фреймворков для машинного обучения.         | Практика: сравнение SciPy и CVXPY в задаче условной оптимизации. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_3.ipynb){: .btn}         |
 
-## Занятие 2. [📄 Материалы](/presentations/2.pdf). [📝 Записи](/notes/2.pdf). [📼 Видео](https://drive.google.com/file/d/1zwGlJCu0mHGT8R1JaDE6BA6SBWoBEY5m/view?usp=sharing)
+<!-- ## Занятие 2. [📄 Материалы](/presentations/2.pdf). [📝 Записи](/notes/2.pdf). [📼 Видео](https://drive.google.com/file/d/1zwGlJCu0mHGT8R1JaDE6BA6SBWoBEY5m/view?usp=sharing)
 
 | Матрично - векторное дифференцирование 1    | Практика: матрично - векторное дифференцирование 1 [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_1.ipynb){: .btn}      |
 | Матрично - векторное дифференцирование 2    | Практика: матрично - векторное дифференцирование 2 [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_2.ipynb){: .btn}      |
@@ -62,4 +61,4 @@ nav_order: 3
 | Нейронные сети. | Практика: Дообучение нейронных сетей aka transfer learning. Neural style transfer. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_1.ipynb){: .btn} |
 | Генеративные неронные сети. Специфика обучения. | Практика: использование GANов для обучения плотности распределения точек на плоскости. Генерация новых покемонов с помощью глубоких нейронных сетей. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_2.ipynb){: .btn} |
 | Ландшафт функции потерь нейронной сети. | Практика: визуализация проекции функции потерь нейронной сети на прямую и плоскость. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_3.ipynb){: .btn} |
-| Подведение итогов. Темы слушателей курса. |  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_4.ipynb){: .btn} |
+| Подведение итогов. Темы слушателей курса. |  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_4.ipynb){: .btn} | -->
