@@ -1,5 +1,5 @@
 ---
-title: ✅ Тест
+title: Тест
 nav_order: 2
 ---
 
