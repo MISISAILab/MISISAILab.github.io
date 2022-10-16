@@ -4,11 +4,11 @@ nav_order: 3
 ---
 
 
-## Занятие 1. [📄 Материалы](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=sharing). [📼 Видео]()
+## Занятие 1. (14.10.22 очно) [📄 Материалы](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=sharing). [📼 Видео](https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing)
 
-| Что такое машинное обучение? Основные термины, папиры и источники.    | Практика: задача наименьших квадратов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_1.ipynb){: .btn}      |
-| Соревнования по машинному обучению.   | Практика: работа с библиотекой CVXPY [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_2.ipynb){: .btn}      |
-| Домашнее задание.         | Практика: сравнение SciPy и CVXPY в задаче условной оптимизации. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_3.ipynb){: .btn}         |
+| Что такое машинное обучение? Основные термины, папиры и источники.    | |
+| Соревнования по машинному обучению.   | |
+| Домашнее задание.         | |
 
 <!-- ## Занятие 2. [📄 Материалы](/presentations/2.pdf). [📝 Записи](/notes/2.pdf). [📼 Видео](https://drive.google.com/file/d/1zwGlJCu0mHGT8R1JaDE6BA6SBWoBEY5m/view?usp=sharing)
 
