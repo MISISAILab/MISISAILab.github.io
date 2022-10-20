@@ -6,17 +6,16 @@ nav_order: 3
 
 ## Занятие 1. (14.10.22 очно) [📄 Материалы](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=sharing). [📼 Видео](https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing)
 
-| Что такое машинное обучение? Основные термины, папиры и источники.    | |
-| Соревнования по машинному обучению.   | |
-| Домашнее задание.         | |
+| Что такое машинное обучение? Основные термины, папиры и источники. Соревнования по машинному обучению. | [Kaggle](https://www.kaggle.com/){: .btn} 
+[ODS](https://ods.ai/){: .btn} [Yandex RecSys Cup](https://yandex.ru/cup/ml/?utm_source=yandex&utm_medium=post&utm_campaign=ya_cup){: .btn} [Toloka](https://toloka.ai/challenges/wsdm2023/){: .btn} [AI-Journey DS-Cup](https://dsworks.ru/){: .btn} |
 
-<!-- ## Занятие 2. [📄 Материалы](/presentations/2.pdf). [📝 Записи](/notes/2.pdf). [📼 Видео](https://drive.google.com/file/d/1zwGlJCu0mHGT8R1JaDE6BA6SBWoBEY5m/view?usp=sharing)
+## Занятие 2. (21.10.22 очно) [📄 Материалы](). [📼 Видео]()
 
-| Матрично - векторное дифференцирование 1    | Практика: матрично - векторное дифференцирование 1 [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_1.ipynb){: .btn}      |
-| Матрично - векторное дифференцирование 2    | Практика: матрично - векторное дифференцирование 2 [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_2.ipynb){: .btn}      |
-| Автоматическое дифференцирование       | Практика: работа с библиотеками для автоматического дифференцирования - `jax`, `pytorch`, `autograd`.  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_3.ipynb){: .btn}         |
+| Лекция: Метрические алгоритмы, метрики задачи классификации, линейная и логистическая регрессия, SVM    |  |
+| Практика: Библиотеки для работы с данными Pandas, NumPy, SciPy | |
+| Домашнее задание       |         |
 
-## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
+<!-- ## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
 
 | Выпуклость. Выпуклые множества.   | Практика: выпуклость. Выпуклые множества в практических задачах. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_1.ipynb){: .btn}      |
 | Выпуклые функции. Сильно выпуклые функции.    | Практика: выпуклые функции. Сильно выпуклые функции. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_2.ipynb){: .btn}      |
