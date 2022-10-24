@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Занятие 2. (21.10.22 очно) [📄 Материалы](https://drive.google.com/file/d/11EksZgx75O4MBKQnBCf5o7QlVdl4yPfP/view?usp=sharing). [📼 Видео]()
 
-| Лекция: Метрические алгоритмы, метрики задачи классификации, линейная и логистическая регрессия, SVM    |  |
+| Лекция: Метрические алгоритмы, метрики задачи классификации, линейная и логистическая регрессия, SVM    | [ODS Lecture](https://habr.com/ru/company/ods/blog/323890/){: .btn} [ШАД Lecture](https://ml-handbook.ru/chapters/linear_models/intro){: .btn} [KNN](https://ml-handbook.ru/chapters/metric_based/intro){: .btn} [ROC-AUC](https://alexanderdyakonov.wordpress.com/2017/07/28/auc-roc-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%BF%D0%BE%D0%B4-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA/){: .btn} |
 | Практика: Библиотеки для работы с данными Pandas, NumPy, SciPy | [🐍 code](https://colab.research.google.com/drive/1B-rl3OCdgR_9Uj8wL8vZGDKT_qY_DdSE?usp=sharing){: .btn} |
 | Домашнее задание       | [🐍 code](https://colab.research.google.com/drive/14mc1j0DZ_fyfC-HyUbe25Omh6OeAA-lu?usp=sharing){: .btn} |
 
