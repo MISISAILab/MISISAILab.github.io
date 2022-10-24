@@ -12,7 +12,7 @@ nav_order: 3
 
 | Лекция: Метрические алгоритмы, метрики задачи классификации, линейная и логистическая регрессия, SVM    |  |
 | Практика: Библиотеки для работы с данными Pandas, NumPy, SciPy | [🐍 code](https://colab.research.google.com/drive/1B-rl3OCdgR_9Uj8wL8vZGDKT_qY_DdSE?usp=sharing){: .btn} |
-| Домашнее задание       |         |
+| Домашнее задание       | [🐍 code](https://colab.research.google.com/drive/14mc1j0DZ_fyfC-HyUbe25Omh6OeAA-lu?usp=sharing){: .btn} |
 
 <!-- ## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
 
