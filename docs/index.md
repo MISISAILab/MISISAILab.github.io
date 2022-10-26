@@ -23,6 +23,6 @@ redirect_from: /how-to
 | Иванов Арсений | Калязин Николай | Братчиков Сергей | Даниил Волков |
 | ------------ | ------------- | ------------- | ------------- |
 | <img src="1.jpg" width="250"> | <img src="3.jpg" width="250"> | <img src="4.jpg" width="250"> | <img src="2.jpg" width="250">  |
-| SberAI <br> Tg: https://t.me/arsmathprog <br> Tg-канал: <https://t.me/ivarsivars> | LevshAI <br> Tg:  https://t.me/FanatBoba  |  University 20.35 <br> Tg:  https://t.me/hivaze  | RTLabs <br> Tg:  https://t.me/wolf_Da |
+| Research <br> Tg: https://t.me/arsmathprog <br> Tg-канал: <https://t.me/ivarsivars> | LevshAI <br> Tg:  https://t.me/FanatBoba  |  University 20.35 <br> Tg:  https://t.me/hivaze  | RTLabs <br> Tg:  https://t.me/wolf_Da |
 
 Октябрь, 2022 г.
