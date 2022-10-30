@@ -14,7 +14,7 @@ nav_order: 3
 | Практика: Библиотеки для работы с данными Pandas, NumPy, MatPlotLib | [🐍 code](https://colab.research.google.com/drive/1B-rl3OCdgR_9Uj8wL8vZGDKT_qY_DdSE?usp=sharing){: .btn} [GitHub Numpy-100](https://github.com/rougier/numpy-100){: .btn} [Pandas Doc](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf){: .btn} [Pandas MSU](https://alexanderdyakonov.wordpress.com/2015/11/06/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-pandas-%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B/){: .btn} [Visual in DS](https://habr.com/ru/company/ods/blog/323210/){: .btn} [MatPlotLib](https://gihttps://matplotlib.org/stable/index.html){: .btn}|
 | Домашнее задание <br> Мягкий дедлайн: 31 октября 23:59 <br> Жесткий дедлайн: 7 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/14mc1j0DZ_fyfC-HyUbe25Omh6OeAA-lu?usp=sharing){: .btn} |
 
-## Занятие 3. (01.11.22 онлайн) [📄 Материалы](). [📼 Видео]()
+## Занятие 3. (01.11.22 [📌онлайн]()) [📄 Материалы](). [📼 Видео]()
 
 | Решающие деревья, ансамбли и случайный лес. |  |
 
