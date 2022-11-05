@@ -14,11 +14,18 @@ nav_order: 3
 | Практика: Библиотеки для работы с данными Pandas, NumPy, MatPlotLib | [🐍 code](https://colab.research.google.com/drive/1B-rl3OCdgR_9Uj8wL8vZGDKT_qY_DdSE?usp=sharing){: .btn} [GitHub Numpy-100](https://github.com/rougier/numpy-100){: .btn} [Pandas Doc](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf){: .btn} [Pandas MSU](https://alexanderdyakonov.wordpress.com/2015/11/06/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-pandas-%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B/){: .btn} [Visual in DS](https://habr.com/ru/company/ods/blog/323210/){: .btn} [MatPlotLib](https://gihttps://matplotlib.org/stable/index.html){: .btn}|
 | Домашнее задание <br> Мягкий дедлайн: 31 октября 23:59 <br> Жесткий дедлайн: 7 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/14mc1j0DZ_fyfC-HyUbe25Omh6OeAA-lu?usp=sharing){: .btn} |
 
-## Занятие 3. (01.11.22 [📌онлайн]()) [📄 Материалы](https://drive.google.com/file/d/1ePen4GvhmiudPK4AKtU0s-ExTX3wtQh6/view?usp=share_link). [📼 Видео](https://drive.google.com/file/d/1_6YoHDvK7P-NBoJ_G30CfrlR0fUr2T08/view?usp=share_link)
+## Занятие 3. (01.11.22 онлайн) [📄 Материалы](https://drive.google.com/file/d/1ePen4GvhmiudPK4AKtU0s-ExTX3wtQh6/view?usp=share_link). [📼 Видео](https://drive.google.com/file/d/1_6YoHDvK7P-NBoJ_G30CfrlR0fUr2T08/view?usp=share_link)
 
 | Лекция: Решающие деревья, ансамбли и случайный лес. | [ШАД Decision trees](https://ml-handbook.ru/chapters/decision_tree/intro){: .btn} [ШАД Ensembles](https://ml-handbook.ru/chapters/ensembles/intro){: .btn} [MSU Dyakonov - Trees](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML062_tree_202113a.pdf){: .btn} |
 | Практика: Работа с библиотекой sklearn, решение задачи Titanic на Kaggle. | [Kaggle Titanic](https://www.kaggle.com/competitions/titanic/){: .btn} [🐍 code](https://colab.research.google.com/drive/1VJstcoGaEYLekTIB4mqu_J2Fm0avTQvO?usp=sharing){: .btn} [Scikit-learn](https://scikit-learn.org/stable/index.html){: .btn} [Classifier Models](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py){: .btn}|
 | Домашнее задание: | [Kaggle Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic){: .btn} |
+
+## Занятие 4. (04.11.22 онлайн) [📄 Материалы](). [📼 Видео]()
+
+| Лекция: Кластеризация, визуализация и снижение размерности | [ШАД Decision trees](https://ml-handbook.ru/chapters/decision_tree/intro){: .btn} [ШАД Ensembles](https://ml-handbook.ru/chapters/ensembles/intro){: .btn} [MSU Dyakonov - Trees](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML062_tree_202113a.pdf){: .btn} |
+| Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
+| Домашнее задание: |  |
+
 
 <!-- ## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
 
