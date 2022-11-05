@@ -22,7 +22,7 @@ nav_order: 3
 
 ## Занятие 4. (04.11.22 онлайн) [📄 Материалы](). [📼 Видео]()
 
-| Лекция: Кластеризация, визуализация и снижение размерности | [ШАД Decision trees](https://ml-handbook.ru/chapters/decision_tree/intro){: .btn} [ШАД Ensembles](https://ml-handbook.ru/chapters/ensembles/intro){: .btn} [MSU Dyakonov - Trees](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML062_tree_202113a.pdf){: .btn} |
+| Лекция: Кластеризация, визуализация и снижение размерности | |
 | Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
 | Домашнее задание: |  |
 
