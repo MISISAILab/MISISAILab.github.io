@@ -18,7 +18,7 @@ nav_order: 3
 
 | Лекция: Решающие деревья, ансамбли и случайный лес. | [ШАД Decision trees](https://ml-handbook.ru/chapters/decision_tree/intro){: .btn} [ШАД Ensembles](https://ml-handbook.ru/chapters/ensembles/intro){: .btn} [MSU Dyakonov - Trees](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML062_tree_202113a.pdf){: .btn} |
 | Практика: Работа с библиотекой sklearn, решение задачи Titanic на Kaggle. | [🐍 code](https://colab.research.google.com/drive/1VJstcoGaEYLekTIB4mqu_J2Fm0avTQvO?usp=sharing){: .btn} [Kaggle Titanic](https://www.kaggle.com/competitions/titanic/){: .btn} [Scikit-learn](https://scikit-learn.org/stable/index.html){: .btn} [Classifier Models](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py){: .btn}|
-| Домашнее задание: <br> Мягкий дедлайн: 12 ноября 23:59 <br> Жесткий дедлайн: 15 ноября 23:59 | [Kaggle Spaceship Titanic](https://colab.research.google.com/drive/16Madl8sRHq_q7jeJXbkURqf0vdmCeDxI?usp=sharing){: .btn} |
+| Домашнее задание: <br> Мягкий дедлайн: 12 ноября 23:59 <br> Жесткий дедлайн: 15 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/16Madl8sRHq_q7jeJXbkURqf0vdmCeDxI?usp=sharing){: .btn} |
 
 ## Занятие 4. (04.11.22 онлайн) 
 
