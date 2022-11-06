@@ -1,23 +1,33 @@
 ---
-title: 🚀 Программа
+title: Программа
 nav_order: 3
 ---
 
-Вводное занятие. [📄 Материалы](/presentations/intro_info.pdf). [📝 Записи](/notes/intro_info.pdf). [📼 Видео](https://drive.google.com/file/d/1NlwEeO51tHHZbq5vaiwII2zhyLiAXNJn/view?usp=sharing)
 
-## Занятие 1. [📄 Материалы](/presentations/1.pdf). [📝 Записи](/notes/1.pdf). [📼 Видео](https://drive.google.com/file/d/1TedRS-j3D77muIKsr8fZOBa3PRJYFwx4/view?usp=sharing)
+## Занятие 1. (14.10.22 очно) [📄 Материалы](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=sharing). [📼 Видео](https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing)
 
-| Обзор приложений задач оптимизации, реальных постановок задач оптимизации и результатов.    | Практика: задача наименьших квадратов. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_1.ipynb){: .btn}      |
-| Знакомство с современными практическими инструментами для оптимизации и анализа данных   | Практика: работа с библиотекой CVXPY [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_2.ipynb){: .btn}      |
-| Сравнение библиотек и фреймворков для машинного обучения.         | Практика: сравнение SciPy и CVXPY в задаче условной оптимизации. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/1_3.ipynb){: .btn}         |
+| Что такое машинное обучение? Основные термины, папиры и источники. Соревнования по машинному обучению. | [Kaggle](https://www.kaggle.com/){: .btn} [ODS](https://ods.ai/){: .btn} [Yandex RecSys Cup](https://yandex.ru/cup/ml/?utm_source=yandex&utm_medium=post&utm_campaign=ya_cup){: .btn} [Toloka](https://toloka.ai/challenges/wsdm2023/){: .btn} [AI-Journey DS-Cup](https://dsworks.ru/){: .btn} |
 
-## Занятие 2. [📄 Материалы](/presentations/2.pdf). [📝 Записи](/notes/2.pdf). [📼 Видео](https://drive.google.com/file/d/1zwGlJCu0mHGT8R1JaDE6BA6SBWoBEY5m/view?usp=sharing)
+## Занятие 2. (21.10.22 очно) [📄 Материалы](https://drive.google.com/file/d/11EksZgx75O4MBKQnBCf5o7QlVdl4yPfP/view?usp=sharing). [📼 Видео](https://drive.google.com/file/d/1_tHdRpz8n0FUAfKyf1rN_Vs_Re-G8FnV/view?usp=sharing)
 
-| Матрично - векторное дифференцирование 1    | Практика: матрично - векторное дифференцирование 1 [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_1.ipynb){: .btn}      |
-| Матрично - векторное дифференцирование 2    | Практика: матрично - векторное дифференцирование 2 [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_2.ipynb){: .btn}      |
-| Автоматическое дифференцирование       | Практика: работа с библиотеками для автоматического дифференцирования - `jax`, `pytorch`, `autograd`.  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/2_3.ipynb){: .btn}         |
+| Лекция: Метрические алгоритмы, метрики задачи классификации, линейная и логистическая регрессия, SVM    | [ODS Lecture](https://habr.com/ru/company/ods/blog/323890/){: .btn} [ШАД Lecture](https://ml-handbook.ru/chapters/linear_models/intro){: .btn} [KNN](https://ml-handbook.ru/chapters/metric_based/intro){: .btn} [ROC-AUC](https://alexanderdyakonov.wordpress.com/2017/07/28/auc-roc-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0%D0%B4%D1%8C-%D0%BF%D0%BE%D0%B4-%D0%BA%D1%80%D0%B8%D0%B2%D0%BE%D0%B9-%D0%BE%D1%88%D0%B8%D0%B1%D0%BE%D0%BA/){: .btn} |
+| Практика: Библиотеки для работы с данными Pandas, NumPy, MatPlotLib | [🐍 code](https://colab.research.google.com/drive/1B-rl3OCdgR_9Uj8wL8vZGDKT_qY_DdSE?usp=sharing){: .btn} [GitHub Numpy-100](https://github.com/rougier/numpy-100){: .btn} [Pandas Doc](https://github.com/pandas-dev/pandas/blob/main/doc/cheatsheet/Pandas_Cheat_Sheet.pdf){: .btn} [Pandas MSU](https://alexanderdyakonov.wordpress.com/2015/11/06/%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%BE-%D1%81-pandas-%D1%81%D0%BB%D0%B0%D0%B9%D0%B4%D1%8B/){: .btn} [Visual in DS](https://habr.com/ru/company/ods/blog/323210/){: .btn} [MatPlotLib](https://gihttps://matplotlib.org/stable/index.html){: .btn}|
+| Домашнее задание <br> Мягкий дедлайн: 31 октября 23:59 <br> Жесткий дедлайн: 7 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/14mc1j0DZ_fyfC-HyUbe25Omh6OeAA-lu?usp=sharing){: .btn} |
 
-## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
+## Занятие 3. (01.11.22 онлайн) [📄 Материалы](https://drive.google.com/file/d/1ePen4GvhmiudPK4AKtU0s-ExTX3wtQh6/view?usp=share_link). [📼 Видео](https://drive.google.com/file/d/1_6YoHDvK7P-NBoJ_G30CfrlR0fUr2T08/view?usp=share_link)
+
+| Лекция: Решающие деревья, ансамбли и случайный лес. | [ШАД Decision trees](https://ml-handbook.ru/chapters/decision_tree/intro){: .btn} [ШАД Ensembles](https://ml-handbook.ru/chapters/ensembles/intro){: .btn} [MSU Dyakonov - Trees](https://github.com/Dyakonov/MSUML/blob/main/2021autumn/ML062_tree_202113a.pdf){: .btn} |
+| Практика: Работа с библиотекой sklearn, решение задачи Titanic на Kaggle. | [🐍 code](https://colab.research.google.com/drive/1VJstcoGaEYLekTIB4mqu_J2Fm0avTQvO?usp=sharing){: .btn} [Kaggle Titanic](https://www.kaggle.com/competitions/titanic/){: .btn} [Scikit-learn](https://scikit-learn.org/stable/index.html){: .btn} [Classifier Models](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py){: .btn}|
+| Домашнее задание: <br> Мягкий дедлайн: 12 ноября 23:59 <br> Жесткий дедлайн: 15 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/16Madl8sRHq_q7jeJXbkURqf0vdmCeDxI?usp=sharing){: .btn} |
+
+## Занятие 4. (04.11.22 онлайн) 
+
+| Лекция: Кластеризация, визуализация и снижение размерности | |
+| Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
+| Домашнее задание: |  |
+
+
+<!-- ## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
 
 | Выпуклость. Выпуклые множества.   | Практика: выпуклость. Выпуклые множества в практических задачах. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_1.ipynb){: .btn}      |
 | Выпуклые функции. Сильно выпуклые функции.    | Практика: выпуклые функции. Сильно выпуклые функции. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/3_2.ipynb){: .btn}      |
@@ -62,4 +72,4 @@ nav_order: 3
 | Нейронные сети. | Практика: Дообучение нейронных сетей aka transfer learning. Neural style transfer. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_1.ipynb){: .btn} |
 | Генеративные неронные сети. Специфика обучения. | Практика: использование GANов для обучения плотности распределения точек на плоскости. Генерация новых покемонов с помощью глубоких нейронных сетей. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_2.ipynb){: .btn} |
 | Ландшафт функции потерь нейронной сети. | Практика: визуализация проекции функции потерь нейронной сети на прямую и плоскость. [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_3.ipynb){: .btn} |
-| Подведение итогов. Темы слушателей курса. |  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_4.ipynb){: .btn} |
+| Подведение итогов. Темы слушателей курса. |  [🐍 code](https://colab.research.google.com/github/MerkulovDaniil/sber219/blob/main/notebooks/10_4.ipynb){: .btn} | -->
