@@ -5,8 +5,10 @@
 
 Сайт курса  - [MISIS AI Lab](https://misisailab.github.io/docs/)
 
+<b>Материал курса:</b>
 <ul>
-    <li>Lecture 1</li>
+    <li>Lecture 1. Что такое машинное обучение? Основные термины, папиры и источники. Соревнования по машинному обучению.  <br>
+    </li>
     <li>Lecture 2</li>
     <li>Lecture 3</li>
 </ul>
