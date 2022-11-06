@@ -15,8 +15,8 @@
     <li>Lecture 2. Метрические алгоритмы, метрики задачи классификации, линейная и логистическая регрессия, SVM. <br>
         <a href="https://drive.google.com/file/d/1_tHdRpz8n0FUAfKyf1rN_Vs_Re-G8FnV/view?usp=sharing">📼 Видео</a>
         <a href="./MATERIALS/Lecture_2/lecture2-misisailab.pdf">📄 Записи</a>
-        <a href="./MATERIALS/Lecture_2/seminar2.pdf">Практика</a>
-        <a href="./MATERIALS/Lecture_2/homework2.pdf">Домашнее задание</a>
+        <a href="./MATERIALS/Lecture_2/seminar2.pdf">🐍 Практика</a>
+        <a href="./MATERIALS/Lecture_2/homework2.pdf"> 🐍 Домашнее задание</a>
     </li>
     <li>Lecture 3</li>
 </ul>
