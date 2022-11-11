@@ -26,6 +26,11 @@ nav_order: 3
 | Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
 | Домашнее задание: |  |
 
+## Лекционный гость (11.11.22 онлайн) [📄 Материалы](https://drive.google.com/file/d/1BL3KbZRuRgg6GMBy9uUVw_tGOjXlxfC6/view?usp=share_link)
+
+| Лекция: Парсинг данных, поиск данных | |
+| Практика: Парсинг и препроцессинг данных: Beautiful Soup, Selenium, Pandas, NumPy | [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){: .btn} [Selenium](https://selenium-python.readthedocs.io/){: .btn}|
+
 
 <!-- ## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
 
