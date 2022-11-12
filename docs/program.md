@@ -3,6 +3,7 @@ title: Программа
 nav_order: 3
 ---
 
+# Основной курс:
 
 ## Занятие 1. (14.10.22 очно) [📄 Материалы](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=sharing). [📼 Видео](https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing)
 
@@ -26,7 +27,9 @@ nav_order: 3
 | Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
 | Домашнее задание: |  |
 
-## Лекционный гость (11.11.22 онлайн) [📄 Материалы](https://drive.google.com/file/d/1BL3KbZRuRgg6GMBy9uUVw_tGOjXlxfC6/view?usp=share_link)
+# Лекционные гости:
+
+## Лекционный гость 1 (11.11.22 очно) [📄 Материалы](https://drive.google.com/file/d/1BL3KbZRuRgg6GMBy9uUVw_tGOjXlxfC6/view?usp=share_link)
 
 | Лекция: Парсинг данных, поиск данных | |
 | Практика: Парсинг и препроцессинг данных: Beautiful Soup, Selenium, Pandas, NumPy | [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){: .btn} [Selenium](https://selenium-python.readthedocs.io/){: .btn}|
