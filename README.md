@@ -1,5 +1,17 @@
-<h1>MISIS AI Lab course ML 2022</h1>
-<h3>Введение в машинное обучение</h3>
+<p align="center">
+    <br>
+    <img src="https://github.com/paperswithcode/galai/raw/main/docs/source/img/logo.png#gh-dark-mode-only" width="400"/>
+    <img src="https://github.com/paperswithcode/galai/raw/main/docs/source/img/logo_black.png#gh-light-mode-only" width="400"/>
+    <br>
+<p>
+<p align="center">
+    <a href="https://github.com/paperswithcode/galai/blob/main/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/paperwithcode/galai.svg?color=purple">
+    </a>
+    <a href="https://github.com/paperswithcode/galai/releases">
+        <img alt="GitHub release" src="https://img.shields.io/github/release/paperswithcode/galai.svg">
+    </a>
+</p>
 
 Курс представляет собой изложение основных алгоритмов машинного обучения и методов решения прикладных задач. Курс содержит как теоритический, так и практический материал.
 
