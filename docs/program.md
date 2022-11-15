@@ -21,7 +21,7 @@ nav_order: 3
 | Практика: Работа с библиотекой sklearn, решение задачи Titanic на Kaggle. | [🐍 code](https://colab.research.google.com/drive/1VJstcoGaEYLekTIB4mqu_J2Fm0avTQvO?usp=sharing){: .btn} [Kaggle Titanic](https://www.kaggle.com/competitions/titanic/){: .btn} [Scikit-learn](https://scikit-learn.org/stable/index.html){: .btn} [Classifier Models](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py){: .btn}|
 | Домашнее задание: <br> Мягкий дедлайн: 12 ноября 23:59 <br> Жесткий дедлайн: 15 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/16Madl8sRHq_q7jeJXbkURqf0vdmCeDxI?usp=sharing){: .btn} |
 
-## Занятие 4. (04.11.22 онлайн) 
+## Занятие 4. (04.11.22 онлайн) [📼 Видео](https://drive.google.com/file/d/1JniTB9z1k-l0rTgxcsYJOQY9KmS5RUK-/view?usp=share_link)
 
 | Лекция: Кластеризация, визуализация и снижение размерности | |
 | Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
@@ -35,10 +35,10 @@ nav_order: 3
 
 # Лекционные гости:
 
-## Лекционный гость 1 (11.11.22 очно) [📄 Материалы](https://drive.google.com/file/d/1BL3KbZRuRgg6GMBy9uUVw_tGOjXlxfC6/view?usp=share_link)
+## Лекционный гость 1 (11.11.22 очно) [📄 Материалы](https://drive.google.com/file/d/1BL3KbZRuRgg6GMBy9uUVw_tGOjXlxfC6/view?usp=share_link). [📼 Видео](https://drive.google.com/file/d/118Qs9UwP0LEz1SQR_WoUVlFfToMIN98K/view?usp=share_link)
 
 | Лекция: Парсинг данных, поиск данных | |
-| Практика: Парсинг и препроцессинг данных: Beautiful Soup, Selenium, Pandas, NumPy | [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){: .btn} [Selenium](https://selenium-python.readthedocs.io/){: .btn}|
+| Практика: Парсинг и препроцессинг данных: Beautiful Soup, Selenium, Pandas, NumPy | [🐍 code](https://colab.research.google.com/drive/1aQXSIYBVY9fqD1ZqmYYZgqbBwaOxwM8L?usp=sharing){: .btn} [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/){: .btn} [Selenium](https://selenium-python.readthedocs.io/){: .btn}|
 
 
 <!-- ## Занятие 3. [📄 Материалы](/presentations/3.pdf). [📝 Записи](/notes/3.pdf). [📼 Видео](https://drive.google.com/file/d/15d-0yc90-BNrKZjs_ILVQ8gA8A0dUWF8/view?usp=sharing)
