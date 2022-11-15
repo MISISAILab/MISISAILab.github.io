@@ -1,6 +1,6 @@
 <p align="center">
     <br>
-    <img src="img/MISIS AI Lab.png#gh-dark-mode-only" width="400"/>
+    <img src="img/MISISAILab.png#gh-dark-mode-only" width="400"/>
     <br>
 <p>
 <p align="center">
