@@ -1,7 +1,6 @@
 <p align="center">
     <br>
-    <img src="https://github.com/paperswithcode/galai/raw/main/docs/source/img/logo.png#gh-dark-mode-only" width="400"/>
-    <img src="https://github.com/paperswithcode/galai/raw/main/docs/source/img/logo_black.png#gh-light-mode-only" width="400"/>
+    <img src="./img/MISIS AI Lab.png#gh-dark-mode-only" width="400"/>
     <br>
 <p>
 <p align="center">
