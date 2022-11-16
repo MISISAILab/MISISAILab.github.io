@@ -25,7 +25,7 @@ nav_order: 3
 
 | Лекция: Кластеризация, визуализация и снижение размерности | [ВМК МГУ](https://github.com/Dyakonov/MSUML/blob/main/2022spring/ML091_cluster_202112n____.pdf){: .btn} [Кластеризация](https://scikit-learn.org/stable/modules/clustering.html){: .btn} [Уменьшение размерности](https://scikit-learn.org/stable/modules/unsupervised_reduction.html){: .btn} [Pandas](https://dfedorov.spb.ru/pandas/cheatsheet/Pandas_Cheat_Sheet.pdf){: .btn} [Python Seaborn](https://dfedorov.spb.ru/pandas/cheatsheet/Python_Seaborn_Cheat_Sheet.pdf){: .btn}|
 | Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
-| Домашнее задание: <br> Мягкий дедлайн: 27 ноября 23:59 <br> Жесткий дедлайн: 30 ноября 23:59 | [🐍 code](){: .btn} |
+| Домашнее задание: <br> Мягкий дедлайн: 27 ноября 23:59 <br> Жесткий дедлайн: 30 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/1BnYQKLM5S6KeWOT-SDXquU7YBwIqN7gm?usp=sharing){: .btn} |
 
 ## Занятие 5. (18.11.22) 
 
