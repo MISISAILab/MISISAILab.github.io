@@ -1,3 +1,5 @@
+![MISIS AI Lab](img/MISISAILab.png)
+
 # MISIS AI Lab course ML 2022
 ### Введение в машинное обучение
 
