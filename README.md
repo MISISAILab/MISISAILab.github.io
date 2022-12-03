@@ -1,6 +1,8 @@
 <p align="center">
     <br>
+    <a href="https://misisailab.github.io/">
     <img src="img/MISISAILab.png" width="400"/>
+    </a>
     <br>
 <p>
 <h1>ML Course 2022</h1>
