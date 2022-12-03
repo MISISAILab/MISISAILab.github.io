@@ -27,10 +27,10 @@
 
 |  Название  |  📼 Видео |  📝 Записи  |📚 Практика|🧑‍💻 ДЗ|
 |------------|------------|-------------|-------------|-------------|
-| Лекция 1   |<div align="center"><a align="center" href="https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing">Click</a></div>|<div align="center"><a align="center" href="./MATERIALS/Lecture_1/lecture1-misisailab.pdf">Click</a></div>|
+| Лекция 1   |<div align="center"><a align="center" href="https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing">Click</a></div>|<div align="center"><a align="center" href="./MATERIALS/Lecture_1/lecture1-misisailab.pdf">Click</a></div>|<div align="center">—</div>|<div align="center">—</div>|
 | Лекция 2   | <div align="center"><a align="center" href="https://drive.google.com/file/d/1_tHdRpz8n0FUAfKyf1rN_Vs_Re-G8FnV/view?usp=sharing">Click</a></div>|<div align="center"><a align="center" href="./MATERIALS/Lecture_2/lecture2-misisailab.pdf">Click</a></div>|<div align="center"><a href="./MATERIALS/Lecture_2/seminar2.ipynb">Click</a></div>|<div align="center"><a href="./MATERIALS/Lecture_2/homework2.ipynb">Click</a></div>|
 | Лекция 3   | <div align="center"><a href="https://drive.google.com/file/d/1_6YoHDvK7P-NBoJ_G30CfrlR0fUr2T08/view?usp=share_link">Click</a><div>|<div align="center"><a align="center" href="./MATERIALS/Lecture_3/lecture3-misisailab.pdf">Click</a></div>|<div align="center"><a href="./MATERIALS/Lecture_3/seminar3.ipynb">Click</a></div>|<div align="center"> <a href="./MATERIALS/Lecture_3/homework3.ipynb">Click</a></div>|
-| Лекция 4   |<div align="center">🕓</div>|<div align="center">🕓</div>|
-| Лекция 5   |<div align="center">🕓</div>|<div align="center">🕓</div>|
-| Лекция 6   |<div align="center">🕓</div>|<div align="center">🕓</div>|
+| Лекция 4   |<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|
+| Лекция 5   |<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|
+| Лекция 6   |<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|
 
