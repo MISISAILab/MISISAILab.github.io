@@ -21,7 +21,7 @@
     <li><b>Lecture 4.</b> Кластеризация, визуализация и снижение размерности. <br></li>
     <li><b>Lecture 5.</b> Введение в нейронные сети. <br></li>
     <li><b>Lecture 6.</b> Сверточные нейронные сети (CV). <br></li>
-<ul>
+</ul>
 
 <p></p>
 
@@ -34,3 +34,6 @@
 | Лекция 5   |<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|
 | Лекция 6   |<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|<div align="center">🕓</div>|
 
+<h1>Contacts</h1>
+
+<a href="https://t.me/+JuVvTYm2i9pjYjg6">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
