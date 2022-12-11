@@ -27,13 +27,23 @@ nav_order: 3
 | Практика: Kmeans, DBSCAN, SVD, Truncated SVD, PCA, TSNE, UMAP | |
 | Домашнее задание: <br> Мягкий дедлайн: 27 ноября 23:59 <br> Жесткий дедлайн: 30 ноября 23:59 | [🐍 code](https://colab.research.google.com/drive/1BnYQKLM5S6KeWOT-SDXquU7YBwIqN7gm?usp=sharing){: .btn} [data](https://drive.google.com/file/d/1rjKwQxryolcWsn0l3nzh8gfKNrUTIR77/view?usp=share_link){: .btn} |
 
-## Занятие 5. (18.11.22) [📄 Материалы](https://drive.google.com/file/d/1H1gBehITfPye4W_Lzf5ZNYDSglKJ-RNl/view?usp=share_link)
+## Занятие 5. (18.11.22 очно) [📄 Материалы](https://drive.google.com/file/d/1H1gBehITfPye4W_Lzf5ZNYDSglKJ-RNl/view?usp=share_link). [📼 Видео](https://drive.google.com/file/d/1E4539n_0XMkCkY2bFSIOvxH8pHlogQ3T/view?usp=share_link)
 
 | Лекция: Введение в Deep Learning | |
 | Практика: Функции активации, нейлинейность (теорема об универсальной аппроксимации), функции ошибки, обратное распространение градиента | |
 | Домашнее задание: |  |
 
-## Занятие 6. (02.12.22) [📄 Материалы](https://drive.google.com/file/d/1nzf4cReEx0L6PVYv-B_2CT_NoZOIF-pj/view?usp=share_link)
+## Занятие 6. (02.12.22 очно) [📄 Материалы](https://drive.google.com/file/d/1nzf4cReEx0L6PVYv-B_2CT_NoZOIF-pj/view?usp=share_link). [📼 Видео](https://drive.google.com/file/d/1VEX4e6FTAmUGty8RXnCcfwCr499FEJaG/view?usp=share_link)
+
+| Лекция: Сверточные нейронные сети (CV). Почему картинки и MLP - плохо? Почему свертки хорошо и что это вообще такое? Параметры свертки, пулинг, популярные CNN архитектуры. |  [Intro to CNN](https://cs231n.github.io/convolutional-networks/){: .btn} [Про разные свертки](https://ikhlestov.github.io/pages/machine-learning/convolutions-types/){: .btn} [Обзор CNN архитектур](https://theaisummer.com/cnn-architectures/){: .btn} [GANs в CV]( https://theaisummer.com/gan-computer-vision-semantic-synthesis/){: .btn} [Трансформеры в CV](https://theaisummer.com/transformers-computer-vision/){: .btn} [Codeformer](https://arxiv.org/pdf/2206.11253.pdf){: .btn}|
+
+## Занятие 7. (09.12.22 очно) [📄 Материалы](). [📼 Видео](https://drive.google.com/file/d/14d2DMJP-LUZTqrGN5TIG6dyX1oW1xHmZ/view?usp=share_link)
+
+| Лекция: Сверточные нейронные сети (CV) | |
+| Практика: Почему картинки и MLP - плохо? Почему свертки хорошо и что это вообще такое? Параметры свертки, пулинг, популярные CNN архитектуры. | |
+| Домашнее задание: |  |
+
+## Занятие 8. (16.12.22 очно) [📄 Материалы]()
 
 | Лекция: Сверточные нейронные сети (CV) | |
 | Практика: Почему картинки и MLP - плохо? Почему свертки хорошо и что это вообще такое? Параметры свертки, пулинг, популярные CNN архитектуры. | |
