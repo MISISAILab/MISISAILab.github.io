@@ -36,7 +36,7 @@ nav_order: 3
 
 ## Занятие 7. (09.12.22 очно) [📄 Материалы](https://drive.google.com/file/d/1LR25YyqvE9bYTqqYkbNbKTCxbueM0krr/view?usp=share_link). [📼 Видео](https://drive.google.com/file/d/14d2DMJP-LUZTqrGN5TIG6dyX1oW1xHmZ/view?usp=share_link)
 
-| Лекция: Введение в NLP. Базовые статистические и нейронные подходы к обработке текста. Вас ждет препроцессинг текста,  Н-граммы, Bag of Words, TF-IDF, Word2Vec, Doc2Vec | |
+| Лекция: Введение в NLP. Базовые статистические и нейронные подходы к обработке текста. Вас ждет препроцессинг текста,  Н-граммы, Bag of Words, TF-IDF, Word2Vec, Doc2Vec | [Актуальные ссылки](https://docs.google.com/document/d/1mPntOWcLrt5pQGGdu3BtqGkgiS4LSm4_wHZWB4UHBmI/edit){: .btn} |
 | Домашнее задание: | [Финальное Kaggle-соревнование](https://www.kaggle.com/competitions/misis-ai-lab-lecture-7-practice-competition/overview){: .btn} |
 
 ## Занятие 8. (16.12.22 очно)
