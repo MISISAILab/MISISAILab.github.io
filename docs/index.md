@@ -18,9 +18,9 @@ redirect_from: /how-to
 * [👨‍💻 Github](https://github.com/MISISAILab/MISISAILab.github.io)
 
 
-| Иванов Арсений | Калязин Николай | Братчиков Сергей | Даниил Волков |
+| Иванов Арсений | Калязин Николай | Братчиков Сергей | Новицкий Лев |
 | ------------ | ------------- | ------------- | ------------- |
 | <img src="arsy.jpg" width="250"> | <img src="3.jpg" width="250"> | <img src="4.jpg" width="250"> | <img src="levv2.jpg" width="250">  |
-| Researcher <br> Tg: https://t.me/arsmathprog <br> Tg-канал: <https://t.me/ivarsivars> | Researcher <br> Tg:  https://t.me/FanatBoba  |  University 20.35 <br> Tg:  https://t.me/hivaze  | Researcher <br> Tg:  https://t.me/leffffffffffff |
+| Researcher <br> Tg: <https://t.me/arsmathprog> <br> Tg-канал: <https://t.me/ivarsivars> | Researcher <br> Tg:  <https://t.me/FanatBoba>  |  University 20.35 <br> Tg:  <https://t.me/hivaze>  | Researcher <br> Tg:  <https://t.me/leffffffffffff> |
 
 Октябрь, 2022 г.
