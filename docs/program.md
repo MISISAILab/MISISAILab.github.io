@@ -5,8 +5,7 @@ nav_order: 3
 
 # Основной курс:
 
-## Занятие 1. (14.10.22 очно) - Иванов Арсений
-## [📄 Материалы](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=share_link) [📼 Видео](https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing)
+## Занятие 1. (14.10.22 очно) - Иванов Арсений <br> [📄 Материалы](https://drive.google.com/file/d/1dchEBxvrT6ZRwBekoA0JqWjKvVM1rn4n/view?usp=share_link) [📼 Видео](https://drive.google.com/file/d/1cuyt3deAnL8jWqNuCMNMQjbom5CivphH/view?usp=sharing)
 
 | Что такое машинное обучение? Основные термины, папиры и источники. Соревнования по машинному обучению. | [Kaggle](https://www.kaggle.com/){: .btn} [ODS](https://ods.ai/){: .btn} [Yandex RecSys Cup](https://yandex.ru/cup/ml/?utm_source=yandex&utm_medium=post&utm_campaign=ya_cup){: .btn} [Toloka](https://toloka.ai/challenges/wsdm2023/){: .btn} [AI-Journey DS-Cup](https://dsworks.ru/){: .btn} |
 
